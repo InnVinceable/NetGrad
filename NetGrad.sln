@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetGrad", "NetGrad\NetGrad.csproj", "{E97807B5-18C6-458E-847A-D0D7620805A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetGrad.Example.Console", "NetGrad.Example.Console\NetGrad.Example.Console.csproj", "{6D4821E2-4324-4FEE-BFAB-B47E9649E7A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E97807B5-18C6-458E-847A-D0D7620805A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97807B5-18C6-458E-847A-D0D7620805A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97807B5-18C6-458E-847A-D0D7620805A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97807B5-18C6-458E-847A-D0D7620805A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4821E2-4324-4FEE-BFAB-B47E9649E7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4821E2-4324-4FEE-BFAB-B47E9649E7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4821E2-4324-4FEE-BFAB-B47E9649E7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4821E2-4324-4FEE-BFAB-B47E9649E7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B56379BA-894C-4733-B284-E63F5E31A4A1}
+	EndGlobalSection
+EndGlobal
